@@ -1,0 +1,7 @@
+.jumbotron {
+    color:brown ;
+    background-image: url(../IMG/cat.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+}
